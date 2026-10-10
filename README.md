@@ -9,9 +9,9 @@ A custom chess engine and AI player built entirely in Python using PyCharm.
 
 ## How to Run
 1. Make sure you have Python installed.
-2. Install dependencies:
+2. Install dependencies, Open your command prompt or terminal and run:
    ```bash
-   pip install pygame
+   pip install pygame-ce
    ```
 3. Run the main file to start the game:
    ```bash
